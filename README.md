@@ -3,4 +3,4 @@
 Las prácticas se describen con detalle en Práctica1.md y Práctica2.md, en esta misma carpeta.
 
 
-Ejecutando pipeline
+Ejecutando pipeline segundo intento
